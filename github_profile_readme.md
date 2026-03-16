@@ -38,8 +38,6 @@
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" />
-    <br>
     <a href="https://leetcode.com/u/Concept008/"><b>LeetCode</b></a> | <a href="https://www.codechef.com/users/algozen08"><b>CodeChef</b></a> | <b>Hacker Cup</b>
 </div>
 
